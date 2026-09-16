@@ -237,4 +237,4 @@ This repository serves as the official landing page for iDrum. The software is d
 This README.md is tailored specifically for iDrum, maintaining a focus on the latest version, full functionality, and directing users to the official download site. It includes all required sections, unique wording, realistic user reviews, and specific features from the provided description.
 
 ---
-**Last updated:** 2026-09-16 07:58:47 UTC
+**Last updated:** 2026-09-16 13:08:33 UTC
